@@ -40,3 +40,11 @@
   bottom: 28px;
   left: 32px;
 }
+
+.dot-find {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  top: -8px;
+  left: 70px;
+}

@@ -20,11 +20,16 @@
     justify-content: space-between;
     display: flex;
 } */
+.screen-header__icons {
+    position: relative;
+}
 
 .screen-header__icons span {
     margin-left: 25px;
+
 }
 
-.screen-header__icons span:last-child {
+header__icons .screen-header__icons span:last-child {
     margin-right: 10px;
+    /* position: relative; */
 }
