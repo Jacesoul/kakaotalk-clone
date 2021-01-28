@@ -29,7 +29,7 @@
 
 }
 
-header__icons .screen-header__icons span:last-child {
+.header__icons .screen-header__icons span:last-child {
     margin-right: 10px;
     /* position: relative; */
 }
